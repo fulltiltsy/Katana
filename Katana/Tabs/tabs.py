@@ -1,0 +1,1 @@
+print('Tabs publish area')
