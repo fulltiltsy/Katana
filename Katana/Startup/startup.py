@@ -1,1 +1,0 @@
-print('Startup publish area')
