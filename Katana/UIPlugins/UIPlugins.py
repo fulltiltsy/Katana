@@ -1,1 +1,0 @@
-print('UIPlugins publish area')
