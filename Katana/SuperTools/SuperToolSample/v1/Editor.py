@@ -16,7 +16,7 @@ class SuperToolSampleEditor(QtWidgets.QWidget):
         widget = factory.buildWidget(self, policy)
 
 
-		# 2. Set Widget #
+        # 2. Set Widget #
         self.LO = QtWidgets.QVBoxLayout(self)
         self.LO.addWidget(widget)
   
